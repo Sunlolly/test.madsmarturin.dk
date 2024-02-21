@@ -18,7 +18,7 @@ header:
 > **PHONE**
 > [tel:+45 51 72 94 34](+45 51 72 94 34)  
 > **LINKEDIN**
-> [Https://linkedin.com/in/marturin](LinkedIn.com/en/marturin
+> [https://linkedin.com/in/marturin](LinkedIn.com/en/marturin
 
 ## ABOUT ME
 I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions.
