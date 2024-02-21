@@ -15,7 +15,7 @@ toc_sticky: true
 > 
 > <https://linkedin.com/in/marturin>
 > 
-> [Download Resume](/assets/resume.pdf){: .btn .btn--success .text-center}
+> [Download Resume](/assets/resume.pdf){: .btn .btn--success}
 
 ## About Me
 I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions.
@@ -28,7 +28,7 @@ I have experience in consumer-centric community-focused marketing of Live Games 
 
 ### Service Desk Manager
 **December 2023 - NOW**  
-[https://axcessnordic.com](Axcess Nordic)
+[https://axcessnordic.com](Axcess Nordic)  
 Managing and supporting the service desk team.
 * Representing the team with stakeholders, including compiling and sharing results from service and operations performance.
 * Implementing ITIL-compliant processes and ensuring that all processes are thoroughly documented, audited, and continually improved.
