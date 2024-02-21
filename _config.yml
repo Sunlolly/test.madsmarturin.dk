@@ -60,6 +60,7 @@ author:
   name   : "Mads Marturin"
   avatar : "/assets/images/Marturin_face.jpg"
   bio    : "This is my personal space for my resume, thoughts, links and whatever else i find."
+  location: "Copenhagen, DK"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
