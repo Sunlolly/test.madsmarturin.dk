@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 **Cookie Notice:** My site does not use tracking cookies of any kind. 
-{: .notice--info}
+{: .notice--success}
 
 ## Hey there!
 
