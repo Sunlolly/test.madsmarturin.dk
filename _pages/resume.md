@@ -13,7 +13,7 @@ toc_sticky: true
 > **Phone**
 > +45 51 72 94 34  
 > <https://linkedin.com/in/marturin>
-> [Success Button Text](/assets/resume.pdf){: .btn .btn--success}
+> [Download Resume](/assets/resume.pdf){: .btn .btn--success .text--center}
 
 ## About Me
 I am the sword and shield of the team, getting rid of obstacles, as well as shielding them from distractions. I enjoy making sure that my team can do their very best. I excel working in creative multidisciplinary teams of designers, artists, developers and other product managers and can quickly and efficiently translate from vision and strategy to tasks and solutions.
