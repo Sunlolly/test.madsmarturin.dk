@@ -28,8 +28,8 @@ I have experience in consumer-centric community-focused marketing of Live Games 
 
 ### Service Desk Manager
 **December 2023 - NOW**  
-[https://axcessnordic.com](Axcess Nordic)  
-Managing and supporting the service desk team.
+[https://axcessnordic.com](Axcess Nordic)
+* Managing and supporting the service desk team.
 * Representing the team with stakeholders, including compiling and sharing results from service and operations performance.
 * Implementing ITIL-compliant processes and ensuring that all processes are thoroughly documented, audited, and continually improved.
 * Managing all relevant stakeholders, including the support desk team, customers, and management.
