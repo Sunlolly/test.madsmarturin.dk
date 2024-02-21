@@ -12,7 +12,5 @@ author_profile: true
 
 I'm Mads, a bit of a jack-of-all-trades with a passion for games, the environment, and exploring the stars, as well as the great outdoors.
 
-This is my personal space.
-
 
 <!-- more -->
