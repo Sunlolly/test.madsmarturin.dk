@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Mads Marturin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My personal site for my resume, thoughts, links and whatever else i find."
+  bio    : "My personal site for my resume, thoughts, links and whatever else i find. You can get in touch at {{ site.email }}."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
