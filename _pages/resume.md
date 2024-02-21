@@ -14,11 +14,11 @@ header:
 **FULL NAME**
 Mads Marturin  
 **E-MAIL**
-hi@madsmarturin.dk  
+[[hi@madsmarturin.dk]]  
 **PHONE**
 +45 51 72 94 34  
 **LINKEDIN**
-linkedin.com/in/marturin
+[[linkedin.com/in/marturin]]
 {: .notice--success}
 
 ## ABOUT ME
