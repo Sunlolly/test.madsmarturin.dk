@@ -4,7 +4,16 @@ title: "Resume"
 author_profile: false
 toc: true
 toc_sticky: true
+
+feature_row:
+  - title: "Skills"
+    excerpt: "* test
+    * test
+    * test"
+  - title: "Software"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
 > ![image-left](/assets/images/Marturin_small.jpg){: .align-left}
 > **Full Name**
 > Mads Marturin  
@@ -23,6 +32,8 @@ I am the sword and shield of the team, getting rid of obstacles, as well as shie
 To manage this, I work with people and data first, while breathing resource allocation.
 
 I have experience in consumer-centric community-focused marketing of Live Games (GaaS), agile project management, and conference/event management. I have knowledge of software development practices, as well as being proficient in version-control and source-management. Excel Wiz and Six Sigma Yellow Belt.
+
+{% include feature_row %}
 
 ## Work Experience
 
