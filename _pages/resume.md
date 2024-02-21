@@ -7,8 +7,8 @@ toc_sticky: true
 
 feature_row:
   - title: "Skills"
-    excerpt: "* test
-    * test
+    excerpt: "* test  
+    * test  
     * test"
   - title: "Software"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
